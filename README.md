@@ -33,7 +33,7 @@ Puedes modificar los archivos `index.html`, `styles.css` y `app.js` para adaptar
 No se requieren dependencias externas ni instalación de paquetes. Solo necesitas un navegador web moderno.
 
 ## Autor
-- Tu nombre aquí
+- Monica Jara
 
 ## Licencia
 Este proyecto es de uso libre. Puedes modificarlo y distribuirlo según tus necesidades.
